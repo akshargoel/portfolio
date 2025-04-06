@@ -155,14 +155,14 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'My Portfolio',
         description: 'Developed a website to summarize my journey. In the process, learnt three.js, redux.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://portfolio-akshar-goels-projects.vercel.app/',
     },
     {
         iconUrl: cloth,
         theme: 'btn-back-pink',
         name: 'Samyati',
         description: 'An ecommerce website for a clothing designer startup brand. Developed using Reactjs, SpringBoot and Mysql. ',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        link: '',
     },
     {
         iconUrl: chai,
