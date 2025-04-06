@@ -135,7 +135,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: '+917678466800',
+        link: 'https://wa.me/917678466800',
     },
     {
         name: 'GitHub',
